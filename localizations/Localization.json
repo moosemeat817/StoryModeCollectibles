@@ -1,0 +1,74 @@
+{
+  "GAMEPLAY_BookBigOne": {
+    "English": "Local Legends - The Big One"
+  },
+  "GAMEPLAY_BookBigOneDescription": {
+    "English": "A book with details about a giant fish that makes its home in a magical pond."
+  },
+  "GAMEPLAY_BookGhostStag": {
+    "English": "Local Legends - Ghost Stag"
+  },
+  "GAMEPLAY_BookGhostStagDescription": {
+    "English": "A book with details about a spectral creature thought to inhabit a local farmstead."
+  },
+  "GAMEPLAY_BookLostCave": {
+    "English": "Local Legends - Lost Cave"
+  },
+  "GAMEPLAY_BookLostCaveDescription": {
+    "English": "A book with details about a strange cave thought to exist on the margins of Pleasant Valley."
+  },
+  "GAMEPLAY_BookPlantsGuide": {
+    "English": "Medicinal Plants of Great Bear"
+  },
+  "GAMEPLAY_BookPlantsGuideDescription": {
+    "English": "A note with information about how to use plants to cure maladies."
+  },
+  "GAMEPLAY_BookSasquatch": {
+    "English": "Local Legends - Sasquatch"
+  },
+  "GAMEPLAY_BookSasquatchDescription": {
+    "English":  "A book with details about a potential sasquatch living in the area."
+  },
+  "GAMEPLAY_FlyerBingo": {
+    "English": "Old Flyer"
+  },
+  "GAMEPLAY_FlyerBingoDescription": {
+    "English": "An old flyer detailing an upcoming bingo event."
+  },
+  "GAMEPLAY_GoldCross": {
+    "English": "Gold Cross"
+  },
+  "GAMEPLAY_GoldCrossDescription": {
+    "English": "A large gold cross, adorned with a gem in its center."
+  },
+  "GAMEPLAY_GoldNuggetA": {
+    "English": "Gold Nugget"
+  },
+  "GAMEPLAY_GoldNuggetADescription": {
+    "English": "A large nugget of gold, not worth much these days, but very pretty."
+  },
+  "GAMEPLAY_IDcard": {
+    "English": "ID Card"
+  },
+  "GAMEPLAY_IDcardDescription": {
+    "English": "A photographic ID card. The detailes are scratched and unreadable."
+  },
+  "GAMEPLAY_RosaryA": {
+    "English": "Holy Rosary"
+  },
+  "GAMEPLAY_RosaryADescription": {
+    "English": "A necklace of knots and beads, usually used in prayers."
+  },
+  "GAMEPLAY_SatchelExplosive": {
+    "English": "Explosives Satchel"
+  },
+  "GAMEPLAY_SatchelExplosiveDescription": {
+    "English": "A satchel full of old blasting caps. Miners used them to detonate dynamite in controlled explosions."
+  },
+  "GAMEPLAY_ScribbledMap": {
+    "English": "Scribbled Map"
+  },
+  "GAMEPLAY_ScribbledMapDescription": {
+    "English": "A scribbled map detailing the surroundings of Thomson's Crossing, with a red path leading somewhere."
+  },
+}

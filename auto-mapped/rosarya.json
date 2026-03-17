@@ -1,0 +1,23 @@
+{
+    "ModGenericComponent": {
+                                "DisplayNameLocalizationId" : "GAMEPLAY_RosaryA",
+                                "DescriptionLocalizationId" : "GAMEPLAY_RosaryADescription",
+                                "InventoryActionLocalizationId" : "",
+                                "WeightKG": 0.1,
+                                "DaysToDecay" : 0,
+                                "MaxHP" : 100,
+                                "InitialCondition" : "Perfect",
+                                "InventoryCategory" : "Auto",
+                                "PickUpAudio" : "Play_SndInvGenericSmall",
+                                "PutBackAudio" : "Play_SndInvGenericSmall",
+                                "StowAudio" : "Play_InventoryStow",
+                                "WornOutAudio" : "",
+                                "InspectOnPickup" : true,
+                                "InspectDistance" : 0.5,
+                                "InspectAngles" : [90, 180, 0],
+                                "InspectOffset" : [0, 0, 0],
+                                "InspectScale" :  [1, 1, 1],
+                                "NormalModel" : "",
+                                "InspectModel" : ""
+                            }
+}

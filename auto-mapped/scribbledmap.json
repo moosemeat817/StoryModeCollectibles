@@ -1,0 +1,23 @@
+{
+    "ModGenericComponent": {
+                                "DisplayNameLocalizationId" : "GAMEPLAY_ScribbledMap",
+                                "DescriptionLocalizationId" : "GAMEPLAY_ScribbledMapDescription",
+                                "InventoryActionLocalizationId" : "",
+                                "WeightKG": 0.1,
+                                "DaysToDecay" : 0,
+                                "MaxHP" : 100,
+                                "InitialCondition" : "Perfect",
+                                "InventoryCategory" : "Auto",
+                                "PickUpAudio" : "Play_MapOpen",
+                                "PutBackAudio" : "Play_MapClose",
+                                "StowAudio" : "Play_InventoryStow",
+                                "WornOutAudio" : "",
+                                "InspectOnPickup" : true,
+                                "InspectDistance" : 0.4,
+                                "InspectAngles" : [180, 90, -90],
+                                "InspectOffset" : [0, 0, 0],
+                                "InspectScale" :  [1, 1, 1],
+                                "NormalModel" : "",
+                                "InspectModel" : ""
+                            }
+}

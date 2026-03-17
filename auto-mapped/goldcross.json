@@ -1,0 +1,23 @@
+{
+    "ModGenericComponent": {
+                                "DisplayNameLocalizationId" : "GAMEPLAY_GoldCross",
+                                "DescriptionLocalizationId" : "GAMEPLAY_GoldCrossDescription",
+                                "InventoryActionLocalizationId" : "",
+                                "WeightKG": 0.2,
+                                "DaysToDecay" : 0,
+                                "MaxHP" : 100,
+                                "InitialCondition" : "Perfect",
+                                "InventoryCategory" : "Auto",
+                                "PickUpAudio" : "Play_SndInvGenericSmall",
+                                "PutBackAudio" : "Play_SndInvGenericSmall",
+                                "StowAudio" : "Play_InventoryStow",
+                                "WornOutAudio" : "",
+                                "InspectOnPickup" : true,
+                                "InspectDistance" : 1,
+                                "InspectAngles" : [0, -90, 0],
+                                "InspectOffset" : [0, -0.15, 0],
+                                "InspectScale" :  [1, 1, 1],
+                                "NormalModel" : "",
+                                "InspectModel" : ""
+                            }
+}
