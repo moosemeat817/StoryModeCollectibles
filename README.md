@@ -1,4 +1,4 @@
-# StoryModeCollectibles
+# Story Mode Collectibles
 A mod that adds some collectible items from Wintermute to Survival Mode.
 
 <img src="https://github.com/moosemeat817/ModListJson/blob/main/storymodecollectibles.png" width="80%">
