@@ -1,74 +1,98 @@
 {
   "GAMEPLAY_BookBigOne": {
-    "English": "Local Legends - The Big One"
+    "English": "Local Legends - The Big One",
+    "Turkish": "Yerel Efsaneler - Büyük Olan"
   },
   "GAMEPLAY_BookBigOneDescription": {
-    "English": "A book with details about a giant fish that makes its home in a magical pond."
+    "English": "A book with details about a giant fish that makes its home in a magical pond.",
+    "Turkish": "Büyük bir balığın, sihirli bir havuzda yaşadığıyla ilgili detayları içeren bir kitap."
   },
   "GAMEPLAY_BookGhostStag": {
-    "English": "Local Legends - Ghost Stag"
+    "English": "Local Legends - Ghost Stag",
+    "Turkish": "Yerel Efsaneler - Hayalet Geyik"
   },
   "GAMEPLAY_BookGhostStagDescription": {
-    "English": "A book with details about a spectral creature thought to inhabit a local farmstead."
+    "English": "A book with details about a spectral creature thought to inhabit a local farmstead.",
+    "Turkish": "Yerel bir çiftlikte yaşadığı düşünülen manevi yaratıkla ilgili detayları içeren bir kitap."
   },
   "GAMEPLAY_BookLostCave": {
-    "English": "Local Legends - Lost Cave"
+    "English": "Local Legends - Lost Cave",
+    "Turkish": "Yerel Efsaneler - Kayıp Mağara"
   },
   "GAMEPLAY_BookLostCaveDescription": {
-    "English": "A book with details about a strange cave thought to exist on the margins of Pleasant Valley."
+    "English": "A book with details about a strange cave thought to exist on the margins of Pleasant Valley.",
+    "Turkish": "Tatlı Vadinin eteklerinde bulunduğu düşünülen tuhaf bir mağara hakkında ayrıntılı bilgiler içeren bir kitap."
   },
   "GAMEPLAY_BookPlantsGuide": {
-    "English": "Medicinal Plants of Great Bear"
+    "English": "Medicinal Plants of Great Bear",
+    "Turkish": "Büyük Ayı'nın İlaçlı Bitkileri"
   },
   "GAMEPLAY_BookPlantsGuideDescription": {
-    "English": "A note with information about how to use plants to cure maladies."
+    "English": "A note with information about how to use plants to cure maladies.",
+    "Turkish": "Bitkileri kullanarak hastalıkları tedavi etme hakkında bilgiler içeren bir not."
   },
   "GAMEPLAY_BookSasquatch": {
-    "English": "Local Legends - Sasquatch"
+    "English": "Local Legends - Sasquatch",
+    "Turkish": "Yerel Efsaneler - Koca Ayak"
   },
   "GAMEPLAY_BookSasquatchDescription": {
-    "English":  "A book with details about a potential sasquatch living in the area."
+    "English": "A book with details about a potential sasquatch living in the area.",
+    "Turkish": "Bölgede yaşadığı düşünülen potansiyel bir Koca Ayak hakkında ayrıntılı bilgiler içeren bir kitap."
   },
   "GAMEPLAY_FlyerBingo": {
-    "English": "Old Flyer"
+    "English": "Old Flyer",
+    "Turkish": "Eski Broşür"
   },
   "GAMEPLAY_FlyerBingoDescription": {
-    "English": "An old flyer detailing an upcoming bingo event."
+    "English": "An old flyer detailing an upcoming bingo event.",
+    "Turkish": "Yaklaşan bir bingo etkinliğini anlatan eski bir broşür."
   },
   "GAMEPLAY_GoldCross": {
-    "English": "Gold Cross"
+    "English": "Gold Cross",
+    "Turkish": "Altın Haç"
   },
   "GAMEPLAY_GoldCrossDescription": {
-    "English": "A large gold cross, adorned with a gem in its center."
+    "English": "A large gold cross, adorned with a gem in its center.",
+    "Turkish": "Ortası bir mücevherle süslenmiş büyük bir altın haç."
   },
   "GAMEPLAY_GoldNuggetA": {
-    "English": "Gold Nugget"
+    "English": "Gold Nugget",
+    "Turkish": "Altın Parçası"
   },
   "GAMEPLAY_GoldNuggetADescription": {
-    "English": "A large nugget of gold, not worth much these days, but very pretty."
+    "English": "A large nugget of gold, not worth much these days, but very pretty.",
+    "Turkish": "Günümüzde pek değeri olmayan çok güzel bir altın külçesi."
   },
   "GAMEPLAY_IDcard": {
-    "English": "ID Card"
+    "English": "ID Card",
+    "Turkish": "Kimlik Kartı"
   },
   "GAMEPLAY_IDcardDescription": {
-    "English": "A photographic ID card. The detailes are scratched and unreadable."
+    "English": "A photographic ID card. The detailes are scratched and unreadable.",
+    "Turkish": "Fotoğrafı olan bir kimlik kartı. Detaylar silinmiş ve okunaklı değil."
   },
   "GAMEPLAY_RosaryA": {
-    "English": "Holy Rosary"
+    "English": "Holy Rosary",
+    "Turkish": "Kutsal Tesbih"
   },
   "GAMEPLAY_RosaryADescription": {
-    "English": "A necklace of knots and beads, usually used in prayers."
+    "English": "A necklace of knots and beads, usually used in prayers.",
+    "Turkish": "İbadetlerde kullanılan boncuklardan oluşan bir bilezik."
   },
   "GAMEPLAY_SatchelExplosive": {
-    "English": "Explosives Satchel"
+    "English": "Explosives Satchel",
+    "Turkish": "Patlayıcı Çantası"
   },
   "GAMEPLAY_SatchelExplosiveDescription": {
-    "English": "A satchel full of old blasting caps. Miners used them to detonate dynamite in controlled explosions."
+    "English": "A satchel full of old blasting caps. Miners used them to detonate dynamite in controlled explosions.",
+    "Turkish": "Eski patlayıcı kapsülleriyle dolu bir çanta. Madenciler bunları kontrollü patlatmalarda dinamitleri patlatmak için kullanırlardı."
   },
   "GAMEPLAY_ScribbledMap": {
-    "English": "Scribbled Map"
+    "English": "Scribbled Map",
+    "Turkish": "Karalanmış Harita"
   },
   "GAMEPLAY_ScribbledMapDescription": {
-    "English": "A scribbled map detailing the surroundings of Thomson's Crossing, with a red path leading somewhere."
-  },
+    "English": "A scribbled map detailing the surroundings of Thomson's Crossing, with a red path leading somewhere.",
+    "Turkish": "Thomson Geçidi çevresini gösteren, bir yere uzanan kırmızı bir yolun işaretlendiği, el yazısıyla çizilmiş bir harita."
+  }
 }
